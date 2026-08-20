@@ -70,8 +70,8 @@ I am a passionate **AI Engineer** dedicated to bridging the gap between advanced
 
 ### 📊 GitHub Stats & Trophy
 <p align="left">
-  <img src="https://vercel.app" alt="Duc's GitHub Stats" width="400" />
-  <img src="https://vercel.app" alt="Top Languages" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ng-hongduc&theme=default" alt="Duc's GitHub Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ng-hongduc&theme=default" alt="Top Languages" width="300" />
 </p>
 
 ---
