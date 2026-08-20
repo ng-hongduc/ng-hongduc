@@ -1,10 +1,10 @@
 # Hi there, I'm Đức Nguyễn (Devin) 👋 
 
-<img src="https://raw.githubusercontent.com/ng-hongduc/ng-hongduc/main/resources/banner.png" alt="Hello, Devin here. Nice to meet you.">
+<img src="https://raw.githubusercontent.com/ng-hongduc/ng-hongduc/main/resources/bg-here.png" alt="Hello, Devin here. Nice to meet you.">
 
 <p align="left">
-  <img src="https://shields.io" alt="Role">
-  <img src="https://shields.io" alt="Focus">
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-0A66C2" alt="Role: AI Engineer">
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%2F%20LLMs%20%2F%20MLOps-6F42C1" alt="Focus: GenAI / LLMs/ MLOps">
 </p>
 
 ---
@@ -23,31 +23,31 @@ I am a passionate **AI Engineer** dedicated to bridging the gap between advanced
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://shields.io" width="70" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C" width="70" alt="LangChain: Framework" />
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="CI/CD" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
       <br>MLOps / CI-CD
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
   </tr>
@@ -78,11 +78,11 @@ I am a passionate **AI Engineer** dedicated to bridging the gap between advanced
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ng-hongduc2002/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" alt="LinkedIn: Connect" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+  <a href="mailto:ng.hongduc05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green" alt="Email: Contact" />
   </a>
 </p>
 
