@@ -59,15 +59,6 @@ I am a passionate **AI Engineer** dedicated to bridging the gap between advanced
 
 ---
 
-### 🔮 Featured Projects
-*(Tip: Replace these with your actual repositories!)*
-
-*   **[🎯 Autonomous-AI-Agent-Framework]** - A scalable multi-agent system built with CrewAI and LangChain to automate complex enterprise workflows.
-*   **[🛡️ Secure-LLM-Gateway]** - An MLOps pipeline implementing security guardrails against prompt injections and data leaks for production LLMs.
-*   **[⚡ Enterprise-RAG-Pipeline]** - A high-performance Retrieval-Augmented Generation pipeline utilizing hybrid search and re-ranking techniques.
-
----
-
 ### 📊 GitHub Stats & Trophy
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ng-hongduc&theme=default" alt="Duc's GitHub Stats" width="150" />
